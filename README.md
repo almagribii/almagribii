@@ -55,7 +55,8 @@ I possess strong capabilities in both **mobile** and **server-side** development
 
 ### 🌱 I'm Currently Learning / Exploring
 
-* ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) **Flutter** - Exploring fast and beautiful cross-platform app development.
+| ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) | **Kotlin** |
+| ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) | **Flutter** |
 * ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg) **Go** - Learning the Go language to build efficient microservices.
 * ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow** - Delving into the fundamentals of Machine Learning for mobile applications.
 * **[Add other technologies you're learning here!]**
