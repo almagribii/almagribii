@@ -1,34 +1,34 @@
-# Profil GitHub: [Nama Anda]
+# GitHub Profile: [Your Name]
 
 ---
 
-Halo! 👋 Saya [Nama Anda], seorang **Software Engineer** yang bersemangat dalam membangun solusi perangkat lunak yang inovatif dan efisien. Dengan pengalaman mendalam di **Android Development** dan **Backend Development**, saya suka mengubah ide-ide kompleks menjadi aplikasi yang responsif dan sistem yang skalabel.
+Hello! 👋 I'm [Your Name], a passionate **Software Engineer** dedicated to building innovative and efficient software solutions. With in-depth experience in **Android Development** and **Backend Development**, I love transforming complex ideas into responsive applications and scalable systems.
 
 ---
 
-### 🚀 Keahlian Utama Saya
+### 🚀 My Core Expertise
 
-Saya memiliki keahlian yang kuat dalam pengembangan **mobile** dan **server-side**, memastikan pengalaman pengguna yang mulus dan kinerja sistem yang optimal.
+I possess strong capabilities in both **mobile** and **server-side** development, ensuring seamless user experiences and optimal system performance.
 
 #### 📱 Android Development (Native & Modern)
-| Logo | Bahasa/Teknologi |
+| Logo | Language/Technology |
 |---|---|
 | ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) | **Kotlin** |
 | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | Java |
 | ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg) | Android Jetpack (Compose, ViewModel, LiveData, Room), Dagger Hilt, Retrofit, Coroutines, Flow |
 | ![Android Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg) | Android Studio, Gradle |
 
-* **Arsitektur:** MVVM, MVI
-* **Pengujian:** Unit Testing, UI Testing (Espresso)
+* **Architecture:** MVVM, MVI
+* **Testing:** Unit Testing, UI Testing (Espresso)
 
 #### ⚙️ Backend Development (Scalable & Robust)
-| Logo | Bahasa/Teknologi |
+| Logo | Language/Technology |
 |---|---|
-| ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) | **Kotlin** (dengan Spring Boot/Ktor) |
-| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | **Java** (dengan Spring Boot) |
+| ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) | **Kotlin** (with Spring Boot/Ktor) |
+| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | **Java** (with Spring Boot) |
 | ![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) | Spring Boot |
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | Python (dengan Django/Flask) |
-| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | Node.js (dengan Express) |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | Python (with Django/Flask) |
+| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | Node.js (with Express) |
 | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) | PostgreSQL |
 | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | MySQL |
 | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) | MongoDB |
@@ -38,43 +38,46 @@ Saya memiliki keahlian yang kuat dalam pengembangan **mobile** dan **server-side
 | ![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg) | Google Cloud Platform |
 
 * **APIs:** RESTful APIs, GraphQL
-* **Metodologi:** Microservices, Event-Driven Architecture
-* **Pengujian:** Unit Testing, Integration Testing
+* **Methodologies:** Microservices, Event-Driven Architecture
+* **Testing:** Unit Testing, Integration Testing
 
 ---
 
-### 💡 Apa yang Saya Lakukan?
+### 💡 What I Do
 
-* Membangun aplikasi Android yang intuitif dan berperforma tinggi dengan fokus pada **pengalaman pengguna yang luar biasa**.
-* Merancang dan mengembangkan **API backend yang kuat dan skalabel** untuk mendukung aplikasi web dan seluler.
-* Mengoptimalkan kinerja aplikasi dan sistem untuk **efisiensi dan responsivitas**.
-* Menerapkan praktik terbaik dalam **clean code, arsitektur yang solid, dan pengujian menyeluruh**.
-* Berkontribusi dalam seluruh siklus hidup pengembangan perangkat lunak, mulai dari desain hingga deployment dan pemeliharaan.
-
----
-
-### 🌱 Saya Sedang Belajar / Mengeksplorasi
-
-* **[Sebutkan teknologi/konsep baru yang sedang Anda pelajari, contohnya: Compose Multiplatform, Serverless Architectures, Machine Learning for Mobile]**
-* **[Sebutkan proyek sampingan atau eksperimen yang sedang Anda kerjakan]**
+* Build intuitive and high-performance Android applications with a focus on **exceptional user experience**.
+* Design and develop **robust and scalable backend APIs** to support web and mobile applications.
+* Optimize application and system performance for **efficiency and responsiveness**.
+* Implement best practices in **clean code, solid architecture, and thorough testing**.
+* Contribute across the entire software development lifecycle, from design to deployment and maintenance.
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 🌱 I'm Currently Learning / Exploring
 
-Mari kita lihat angka-angka di balik kontribusi saya!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_github_anda]&show_icons=true&theme=radical&hide_border=true)](https://github.com/[username_github_anda])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username_github_anda]&layout=compact&theme=radical&hide_border=true)](https://github.com/[username_github_anda])
-
-*Ganti `[username_github_anda]` dengan username GitHub Anda yang sebenarnya untuk menampilkan statistik Anda.*
+* ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) **Flutter** - Exploring fast and beautiful cross-platform app development.
+* ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg) **Go** - Learning the Go language to build efficient microservices.
+* ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow** - Delving into the fundamentals of Machine Learning for mobile applications.
+* **[Add other technologies you're learning here!]**
+* **[Mention side projects or experiments you're currently working on!]**
 
 ---
 
-### 🤝 Mari Terhubung!
+### 📊 My GitHub Stats
 
-Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek menarik atau berdiskusi tentang teknologi terbaru. Jangan ragu untuk menghubungi saya!
+Let's look at the numbers behind my contributions!
 
-* LinkedIn: [Link Profil LinkedIn Anda]
-* Email: [Alamat Email Anda]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your_github_username]&show_icons=true&theme=radical&hide_border=true)](https://github.com/[your_github_username])
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your_github_username]&layout=compact&theme=radical&hide_border=true)](https://github.com/[your_github_username])
+
+*Replace `[your_github_username]` with your actual GitHub username to display your stats.*
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing the latest technologies. Feel free to reach out!
+
+* LinkedIn: [Your LinkedIn Profile Link]
+* Email: [Your Email Address]
