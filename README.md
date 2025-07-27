@@ -64,7 +64,7 @@ Saya memiliki keahlian yang kuat dalam pengembangan **mobile** dan **server-side
 
 Mari kita lihat angka-angka di balik kontribusi saya!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_github_anda]&show_icons=true&theme=radical&hide_border=true)](https://github.com/[username_github_anda])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical&hide_border=true)](https://github.com/almagribii)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical&hide_border=true)](https://github.com/almagribii)
 
