@@ -23,14 +23,11 @@ I possess strong capabilities in both **mobile** and **server-side** development
 | ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) | **Kotlin** (with Spring Boot/Ktor) |
 | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | **Java** (with Spring Boot) |
 | ![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) | Spring Boot |
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | Python (with Django/Flask) |
-| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | Node.js (with Express) |
 | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) | PostgreSQL |
 | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | MySQL |
 | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) | MongoDB |
 | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) | Docker |
 | ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg) | Kubernetes |
-| ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg) | AWS (EC2, S3, RDS, Lambda, API Gateway) |
 | ![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg) | Google Cloud Platform |
 
 * **APIs:** RESTful APIs, GraphQL
