@@ -68,16 +68,14 @@ Mari kita lihat angka-angka di balik kontribusi saya!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical&hide_border=true)](https://github.com/almagribii)
 
-*Ganti `[username_github_anda]` dengan username GitHub Anda yang sebenarnya untuk menampilkan statistik Anda.*
-
 ---
 
 ### 🤝 Mari Terhubung!
 
 Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek menarik atau berdiskusi tentang teknologi terbaru. Jangan ragu untuk menghubungi saya!
 
-* LinkedIn: [Link Profil LinkedIn Anda]
-* Email: [Alamat Email Anda]
+* LinkedIn: https://www.linkedin.com/in/brucad-al-magribi-11675233a/
+* Email: brucadalm@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almagribii&show_icons=true&locale=en&layout=compact" alt="almagribii" /></p>
 
