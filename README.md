@@ -13,7 +13,7 @@ Saya memiliki keahlian yang kuat dalam pengembangan **mobile** dan **server-side
 #### 📱 Android Development (Native & Modern)
 | Logo | Bahasa/Teknologi |
 |---|---|
-| ![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_logo.svg) | **Kotlin** |
+| ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg) | **Kotlin** |
 | ![Java](https://techicons.dev/icons/java.svg) | Java |
 | ![Android](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg) | Android Jetpack (Compose, ViewModel, LiveData, Room), Dagger Hilt, Retrofit, Coroutines, Flow |
 | ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/9/96/Android_Studio_Icon.svg) | Android Studio, Gradle |
