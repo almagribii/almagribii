@@ -66,7 +66,7 @@ Mari kita lihat angka-angka di balik kontribusi saya!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_github_anda]&show_icons=true&theme=radical&hide_border=true)](https://github.com/[username_github_anda])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username_github_anda]&layout=compact&theme=radical&hide_border=true)](https://github.com/[username_github_anda])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical&hide_border=true)](https://github.com/almagribii)
 
 *Ganti `[username_github_anda]` dengan username GitHub Anda yang sebenarnya untuk menampilkan statistik Anda.*
 
