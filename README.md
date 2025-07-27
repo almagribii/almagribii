@@ -57,7 +57,7 @@ I possess strong capabilities in both **mobile** and **server-side** development
 
 | Logo | Language/Technology |
 |---|---|
-| ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) | **Kotlin** |
+| ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) | **Flutter** |
 | ![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | Java |
 | ![Android Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg) | Android Studio, Gradle |
 
