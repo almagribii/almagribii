@@ -1,8 +1,4 @@
-# GitHub Profile: [Your Name]
-
----
-
-Hello! 👋 I'm [Your Name], a passionate **Software Engineer** dedicated to building innovative and efficient software solutions. With in-depth experience in **Android Development** and **Backend Development**, I love transforming complex ideas into responsive applications and scalable systems.
+Hello! 👋 I'm Brucad Al Magribi, a passionate **Software Engineer** dedicated to building innovative and efficient software solutions. With in-depth experience in **Android Development** and **Backend Development**, I love transforming complex ideas into responsive applications and scalable systems.
 
 ---
 
@@ -58,8 +54,8 @@ I possess strong capabilities in both **mobile** and **server-side** development
 | Logo | Language/Technology |
 |---|---|
 | ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) | **Flutter** |
-| ![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | Java |
-| ![Android Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg) | Android Studio, Gradle |
+| ![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg) | Golang |
+| ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) | TensorFlow |
 
 ---
 
@@ -67,11 +63,9 @@ I possess strong capabilities in both **mobile** and **server-side** development
 
 Let's look at the numbers behind my contributions!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your_github_username]&show_icons=true&theme=radical&hide_border=true)](https://github.com/[your_github_username])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical&hide_border=true)](https://github.com/almagribii)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your_github_username]&layout=compact&theme=radical&hide_border=true)](https://github.com/[your_github_username])
-
-*Replace `[your_github_username]` with your actual GitHub username to display your stats.*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical&hide_border=true)](https://github.com/almagribii)
 
 ---
 
@@ -79,5 +73,6 @@ Let's look at the numbers behind my contributions!
 
 I'm always open to collaborating on interesting projects or discussing the latest technologies. Feel free to reach out!
 
-* LinkedIn: [Your LinkedIn Profile Link]
-* Email: [Your Email Address]
+* LinkedIn: https://www.linkedin.com/in/brucad-al-magribi-11675233a/
+* Github: https://github.com/almagribii
+* Email: brucadalm@gmail.com
