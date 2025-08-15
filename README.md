@@ -50,8 +50,8 @@ I possess strong capabilities in both **mobile** and **server-side** development
 
 | Logo | Language/Technology |
 |---|---|
-| ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) | **Flutter** |
-| ![GO](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg) | Golang |
+| ![Scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg) | **Scikit-learn** |
+| ![Numpy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) | **Numpy** |
 | ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) | TensorFlow |
 
 ---
