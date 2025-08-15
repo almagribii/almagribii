@@ -61,6 +61,7 @@ I possess strong capabilities in both **mobile** and **server-side** development
 Let's look at the numbers behind my contributions!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical&hide_border=true)](https://github.com/almagribii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical&hide_border=true)](https://github.com/almagribii)
 
 
 ---
