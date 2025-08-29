@@ -61,7 +61,7 @@ I possess strong capabilities in both **mobile** and **server-side** development
 Let's look at the numbers behind my contributions!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcqeems&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
 
