@@ -61,8 +61,22 @@ I possess strong capabilities in both **mobile** and **server-side** development
 Let's look at the numbers behind my contributions!
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical&hide_border=true)](https://github.com/almagribii)
+<p align="center">
+5 months ago
 
+Update README.md
+  <img src="https://github-readme-stats.vercel.app/api?username=mcqeems&show_icons=true&theme=radical" alt="GitHub Stats" />
+5 months ago
+
+Update README.md
+</p>
+
+5 months ago
+
+Update README.md
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcqeems&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
