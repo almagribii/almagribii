@@ -60,9 +60,7 @@ I possess strong capabilities in both **mobile** and **server-side** development
 
 Let's look at the numbers behind my contributions!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical&hide_border=true)](https://github.com/almagribii)
 
 
