@@ -60,20 +60,16 @@ I possess strong capabilities in both **mobile** and **server-side** development
 
 Let's look at the numbers behind my contributions!
 
-
 <p align="center">
-5 months ago
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcqeems&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
 
-Update README.md
   <img src="https://github-readme-stats.vercel.app/api?username=mcqeems&show_icons=true&theme=radical" alt="GitHub Stats" />
-5 months ago
 
-Update README.md
 </p>
 
-5 months ago
 
-Update README.md
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcqeems&theme=radical" alt="GitHub Streak" />
 </p>
