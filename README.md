@@ -65,13 +65,13 @@ Let's look at the numbers behind my contributions!
 </p>
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mcqeems&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=almagribii&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcqeems&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almagribii&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
