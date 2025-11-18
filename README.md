@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Developing robust and scalable web applications using modern frameworks. I'm focusing on improving my skills in delivering high-quality, production-ready code.<br><br>👯 I’m looking to collaborate on Open-source projects related to backend development (e.g., API design, microservices) or anything involving data processing and efficiency.<br><br>🤝 I’m looking for help with Deepening my understanding of advanced design patterns and optimizing application performance, especially in high-load environments.<br><br>🌱 I’m currently learning Advanced topics in Cloud Computing (e.g., AWS/GCP services) and exploring new programming paradigms like functional programming.<br><br>💬 Ask me about Anything related to Python, Django, or React, and how to build efficient full-stack solutions.<br><br>⚡ Fun fact I believe that a good code comment is a short story waiting to be told! Also, I prefer coding late at night when the world is quiet.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=almagribii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brucadal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brucad-al-magribi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@brucadalm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@al_creationss) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_alll017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brucadalm@gmail.com) 
@@ -12,10 +15,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=almagribii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=almagribii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=almagribii&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=almagribii&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
