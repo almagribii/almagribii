@@ -14,10 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=almagribii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=almagribii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical&hide_border=true)](https://github.com/almagribii)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almagribii&layout=compact&theme=radical" alt="Top Language"/>
-</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
